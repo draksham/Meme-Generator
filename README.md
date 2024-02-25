@@ -10,9 +10,8 @@ I have used Vite for the React setup. For more info: [Vite Documentation](https:
 
 ## Tech Stacks
 
-- React
+- ReactJs
 - HTML
-- CSS
 - Vite
 
 ## Project Overview
